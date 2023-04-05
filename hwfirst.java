@@ -2,6 +2,7 @@ package homework;
 import java.util.Arrays;
 
 public class hwfirst {
+    
     public static int[] sorting(int[] array) {
         int[] arrayeA = Arrays.copyOf(array, array.length);
         int[] arrayeB = new int[array.length];
